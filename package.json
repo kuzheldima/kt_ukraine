@@ -1,7 +1,7 @@
 {
   "name": "kt_ukraine",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "npm run serve",
     "serve": "vue-cli-service serve",
